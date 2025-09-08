@@ -11,7 +11,7 @@ const App: React.FC = () => {
     location: 'Kediri, Indonesia',
     university: 'Universitas Negeri Surabaya',
     major: 'Graphic Design, 3rd Semester',
-    avatarUrl: 'https://picsum.photos/seed/alifpersona/200',
+    avatarUrl: 'https://lh3.googleusercontent.com/pw/AP1GczOKfBG4EDn7pgdxXfCynPZKRi2s6jtTvdaj742GfGdkF3wsejRUA06umw32F4DcIOyLC7MOywAPuWNU-jzD5DUpn9hLSCdf4LpUO65D3vmn7t6qlrQ=w2400',
     bio: '"Above the sky, there is still a sky."',
     description: ['Creative', 'Passionate', 'Determined'],
     goals: {
